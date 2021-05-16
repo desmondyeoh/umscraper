@@ -22,7 +22,7 @@ The scraped data are in this repository [TODO: Insert reporsitory link].
 ## Installation
 Install the package using the command
 ```bash
-go get github.com/desmondyeoh/um-staff-scraper
+go get github.com/desmondyeoh/umscraper
 ```
 
 ## Usage
