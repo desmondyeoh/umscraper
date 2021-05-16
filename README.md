@@ -13,7 +13,7 @@ func ReadCsv(string) [][]string {} // Reads a table of [][]string from specified
 ```
 
 ## Dataset
-The scraped data are in this repository [TODO: Insert reporsitory link].
+The scraped data are in this repository [desmondyeoh/umscraper-data](https://github.com/desmondyeoh/umscraper-data)
 - `ptjJabTable.csv` has the full list of (Ptj, Jab) pairs with columns {ptjCode, ptjText, jabCode, jabText}
 - `staffTable.csv` has the full staff list with columns {ptjCode, ptjText, jabCode, jabText, name, nameQueryEsc, details...}
   - `img/<ptjCode>/<nameQueryEsc>.jpg` can be used to find the staff's respective image file.
